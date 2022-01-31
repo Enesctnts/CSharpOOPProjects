@@ -39,7 +39,7 @@ namespace V4.Project
                 {
                     MusteriId = 1,
                     Cinsiyet = Cinsiyetler.Erkek,
-                    DogumTarihi = new DateTime(2022, 1, 31),
+                    DogumTarihi = new DateTime(1969, 1, 31),
                     MusteriAd = "Veysel",
                     MusteriSoyad = "PERÜ"
                    
@@ -54,7 +54,7 @@ namespace V4.Project
                 musterininSepeti.UrunlerListesi.Add(urun3);
                 musterininSepeti.UrunlerListesi.Add(urun4);
 
-                //önce sepeti ve epete eklenecek ürünleri
+                //önce sepeti ve sepete eklenecek ürünleri
                 //yukarda aldık,sonra bu sepeti müşteriye atadık.
                 
                 musteri.MusterininUrunSepeti = musterininSepeti;
@@ -66,7 +66,8 @@ namespace V4.Project
             {
                 Console.WriteLine(exception.ToString());
             }
-            
+
+            Console.ReadLine();
         }
     }
 }
