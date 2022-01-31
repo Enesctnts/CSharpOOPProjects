@@ -1,0 +1,16 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\bin\Debug\netcoreapp3.1\V3.Project.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V3.Project\V3.Project\obj\Debug\netcoreapp3.1\V3.Project.genruntimeconfig.cache

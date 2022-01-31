@@ -1,0 +1,14 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\bin\Debug\netcoreapp3.1\V4.Project.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\V4.Project\V4.Project\obj\Debug\netcoreapp3.1\V4.Project.genruntimeconfig.cache

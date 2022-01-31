@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\V1.Project",
+    "\\V2",
+    "\\V2.Project",
+    "\\V3.Project",
+    "\\V3.Project\\V3.Project"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\V3.Project\\V3.Project.sln",
   "PreviewInSolutionExplorer": false
 }
