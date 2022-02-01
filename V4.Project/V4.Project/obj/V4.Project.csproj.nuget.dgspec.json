@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj": {}
+    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj": {
+    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj",
+        "projectUniqueName": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj",
         "projectName": "V4.Project",
-        "projectPath": "C:\\Users\\hp\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\obj\\",
+        "projectPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\V4.Project.csproj",
+        "packagesPath": "C:\\Users\\303ENES_SABAH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V4.Project\\V4.Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\303ENES_SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

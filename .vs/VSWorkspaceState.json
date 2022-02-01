@@ -1,12 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\V1.Project",
-    "\\V2",
-    "\\V2.Project",
-    "\\V3.Project",
-    "\\V3.Project\\V3.Project"
+    "\\V4.Project",
+    "\\V4.Project\\V4.Project"
   ],
-  "SelectedNode": "\\V3.Project\\V3.Project.sln",
+  "SelectedNode": "\\V4.Project\\V4.Project\\Musteri.cs",
   "PreviewInSolutionExplorer": false
 }

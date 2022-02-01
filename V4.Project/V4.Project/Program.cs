@@ -39,7 +39,7 @@ namespace V4.Project
                 {
                     MusteriId = 1,
                     Cinsiyet = Cinsiyetler.Erkek,
-                    DogumTarihi = new DateTime(1969, 1, 31),
+                    DogumTarihi = new DateTime(1969, 2, 1),
                     MusteriAd = "Veysel",
                     MusteriSoyad = "PERÜ"
                    
