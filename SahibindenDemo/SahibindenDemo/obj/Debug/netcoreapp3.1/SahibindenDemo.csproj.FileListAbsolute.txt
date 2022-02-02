@@ -1,0 +1,14 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\bin\Debug\netcoreapp3.1\SahibindenDemo.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\SahibindenDemo\SahibindenDemo\obj\Debug\netcoreapp3.1\SahibindenDemo.genruntimeconfig.cache
