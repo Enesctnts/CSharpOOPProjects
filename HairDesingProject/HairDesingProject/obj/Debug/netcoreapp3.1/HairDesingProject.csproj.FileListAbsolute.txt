@@ -1,0 +1,14 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\bin\Debug\netcoreapp3.1\HairDesingProject.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\HairDesingProject\HairDesingProject\obj\Debug\netcoreapp3.1\HairDesingProject.genruntimeconfig.cache

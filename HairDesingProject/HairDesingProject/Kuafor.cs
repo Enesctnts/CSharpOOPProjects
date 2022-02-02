@@ -31,28 +31,37 @@ namespace HairDesingProject
             CiltBakimUcreti = 30;
         }
         private List<Hizmetler> alinanHizmetler = new List<Hizmetler>();
-        private float toplamUCret;
+        private float toplamUcret;
         public void SacTrasiYap()
         {
             alinanHizmetler.Add(Hizmetler.Saç_Traşı);
-            toplamUCret += SacTrasiUcreti;
+            toplamUcret += SacTrasiUcreti;
         }
         public void SacYikamaYap()
         {
             alinanHizmetler.Add(Hizmetler.Saç_Yıkama);
-            toplamUCret += SacYikamaUcreti;
+            toplamUcret += SacYikamaUcreti;
         }
         public void CiltBakımıYap()
         {
             alinanHizmetler.Add(Hizmetler.Cilt_Bakımı);
-            toplamUCret += CiltBakimUcreti;
+            toplamUcret += CiltBakimUcreti;
         }
         public void SakalTrasiYap()
         {
             alinanHizmetler.Add(Hizmetler.Sakal_Traşı);
-            toplamUCret += SakalTrasiUCreti;
+            toplamUcret += SakalTrasiUCreti;
         }
 
+        public void BilgiYaz()
+        {
+            Console.WriteLine("Aşağıdaki Hizmetleri Aldiniz\n");
+            foreach (var item in alinanHizmetler)
+            {
+                Console.WriteLine(item);
+            }
+            Console.WriteLine("Toplam Tutar: " + toplamUcret);
+        }
 
 
     }
