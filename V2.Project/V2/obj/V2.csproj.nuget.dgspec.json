@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2\\V2\\V2.csproj": {}
+    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2.Project\\V2\\V2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2\\V2\\V2.csproj": {
+    "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2.Project\\V2\\V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2\\V2\\V2.csproj",
+        "projectUniqueName": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2.Project\\V2\\V2.csproj",
         "projectName": "V2",
-        "projectPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2\\V2\\V2.csproj",
+        "projectPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2.Project\\V2\\V2.csproj",
         "packagesPath": "C:\\Users\\303ENES_SABAH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2\\V2\\obj\\",
+        "outputPath": "C:\\Users\\303ENES_SABAH\\Documents\\GitHub\\CSharpOOP\\V2.Project\\V2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\303ENES_SABAH\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\bin\Debug\NesneGenel.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\bin\Debug\NesneGenel.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\bin\Debug\NesneGenel.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\obj\Debug\NesneGenel.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\obj\Debug\NesneGenel.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\obj\Debug\NesneGenel.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\NesneGenel\obj\Debug\NesneGenel.csproj.AssemblyReference.cache
