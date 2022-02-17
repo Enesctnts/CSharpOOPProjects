@@ -22,37 +22,6 @@ namespace DerslerGenel
 
     }
 
-
-    class Daire
-    {
-        public double r { get; set; }
-        public double DaireAlanHesapla()
-        {
-            return Math.PI * r;
-        }
-    }
-
-
-    class Silindir : Daire
-    {
-        public int h { get; set; }
-
-        public double SilindirHacimHesapla()
-        {
-            return base.DaireAlanHesapla() * h;
-        }
-    }
-
-
-    class Koni : Silindir
-    {
-
-        public double KoniHacimHesapla()
-        {
-            return base.SilindirHacimHesapla() / 3;
-        }
-    }
-
     class Depo
     {
         private string[] _depo = new string[10];

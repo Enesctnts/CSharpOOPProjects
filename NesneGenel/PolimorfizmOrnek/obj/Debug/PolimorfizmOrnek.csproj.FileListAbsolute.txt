@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\bin\Debug\PolimorfizmOrnek.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\bin\Debug\PolimorfizmOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\bin\Debug\PolimorfizmOrnek.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\obj\Debug\PolimorfizmOrnek.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\obj\Debug\PolimorfizmOrnek.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\obj\Debug\PolimorfizmOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\PolimorfizmOrnek\obj\Debug\PolimorfizmOrnek.pdb

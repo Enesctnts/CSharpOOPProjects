@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\bin\Debug\Polimorfizm.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\bin\Debug\Polimorfizm.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\bin\Debug\Polimorfizm.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\obj\Debug\Polimorfizm.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\obj\Debug\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\obj\Debug\Polimorfizm.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Polimorfizm\obj\Debug\Polimorfizm.pdb

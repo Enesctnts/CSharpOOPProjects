@@ -4,3 +4,4 @@ C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Abstract\bin\Debug\
 C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
 C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Abstract\obj\Debug\Abstract.exe
 C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Abstract\obj\Debug\Abstract.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Abstract\obj\Debug\Abstract.csproj.AssemblyReference.cache
