@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\bin\Debug\InterfaceV4.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\bin\Debug\InterfaceV4.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\bin\Debug\InterfaceV4.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\obj\Debug\InterfaceV4.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\obj\Debug\InterfaceV4.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\obj\Debug\InterfaceV4.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceV4\obj\Debug\InterfaceV4.pdb

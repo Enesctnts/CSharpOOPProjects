@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\bin\Debug\EnumOrnek.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\bin\Debug\EnumOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\bin\Debug\EnumOrnek.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\obj\Debug\EnumOrnek.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\obj\Debug\EnumOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EnumOrnek\obj\Debug\EnumOrnek.pdb

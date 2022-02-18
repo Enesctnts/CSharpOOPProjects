@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\bin\Debug\InterfaceOrnekler.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\bin\Debug\InterfaceOrnekler.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\bin\Debug\InterfaceOrnekler.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\obj\Debug\InterfaceOrnekler.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\obj\Debug\InterfaceOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\obj\Debug\InterfaceOrnekler.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\InterfaceOrnekler\obj\Debug\InterfaceOrnekler.pdb
