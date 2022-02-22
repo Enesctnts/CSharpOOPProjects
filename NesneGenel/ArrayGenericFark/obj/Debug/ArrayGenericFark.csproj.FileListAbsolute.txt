@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\bin\Debug\ArrayGenericFark.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\bin\Debug\ArrayGenericFark.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\bin\Debug\ArrayGenericFark.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\obj\Debug\ArrayGenericFark.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\obj\Debug\ArrayGenericFark.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\ArrayGenericFark\obj\Debug\ArrayGenericFark.pdb

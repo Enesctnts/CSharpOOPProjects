@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AracBoyamaSistemi", "Interf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceV4", "InterfaceV4\InterfaceV4.csproj", "{607D42A0-AA1F-4695-B1EB-6F9507EFB2BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{B24D85C5-1806-4028-B16D-AD0AA316BFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGenericFark", "ArrayGenericFark\ArrayGenericFark.csproj", "{0FD28F0F-B802-4490-91E9-1BD4B5546079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTypeSecurity", "GenericTypeSecurity\GenericTypeSecurity.csproj", "{28225BAF-930D-4F2D-8B99-CEA488A8AEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Constraints", "Generic Constraints\Generic Constraints.csproj", "{B5482C04-54D9-45CE-9C26-4C439B6BDD0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrarProjesi", "GenelTekrarProjesi\GenelTekrarProjesi.csproj", "{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{607D42A0-AA1F-4695-B1EB-6F9507EFB2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{607D42A0-AA1F-4695-B1EB-6F9507EFB2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{607D42A0-AA1F-4695-B1EB-6F9507EFB2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24D85C5-1806-4028-B16D-AD0AA316BFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24D85C5-1806-4028-B16D-AD0AA316BFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24D85C5-1806-4028-B16D-AD0AA316BFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24D85C5-1806-4028-B16D-AD0AA316BFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD28F0F-B802-4490-91E9-1BD4B5546079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD28F0F-B802-4490-91E9-1BD4B5546079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD28F0F-B802-4490-91E9-1BD4B5546079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD28F0F-B802-4490-91E9-1BD4B5546079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28225BAF-930D-4F2D-8B99-CEA488A8AEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28225BAF-930D-4F2D-8B99-CEA488A8AEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28225BAF-930D-4F2D-8B99-CEA488A8AEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28225BAF-930D-4F2D-8B99-CEA488A8AEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5482C04-54D9-45CE-9C26-4C439B6BDD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5482C04-54D9-45CE-9C26-4C439B6BDD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5482C04-54D9-45CE-9C26-4C439B6BDD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5482C04-54D9-45CE-9C26-4C439B6BDD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

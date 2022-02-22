@@ -8,6 +8,7 @@ namespace InterfaceV4
 {
     public class Pelikan : IYuzebilir, IYuruyebilir, IUcabilir
     {
+        
         public void Uc()
         {
             throw new NotImplementedException();

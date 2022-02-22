@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\bin\Debug\GenericTypeSecurity.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\bin\Debug\GenericTypeSecurity.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\bin\Debug\GenericTypeSecurity.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\obj\Debug\GenericTypeSecurity.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\obj\Debug\GenericTypeSecurity.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenericTypeSecurity\obj\Debug\GenericTypeSecurity.pdb
