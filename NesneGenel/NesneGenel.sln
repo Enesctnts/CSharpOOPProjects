@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic Constraints", "Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenelTekrarProjesi", "GenelTekrarProjesi\GenelTekrarProjesi.csproj", "{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{CC287266-29C4-41B6-8230-A92F2FEC06FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDC6EC0-421A-45A3-9D5A-21745B4CF1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC287266-29C4-41B6-8230-A92F2FEC06FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC287266-29C4-41B6-8230-A92F2FEC06FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC287266-29C4-41B6-8230-A92F2FEC06FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC287266-29C4-41B6-8230-A92F2FEC06FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
