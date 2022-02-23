@@ -1,0 +1,16 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\bin\Debug\netcoreapp3.1\EventOrnekV3.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnekV3\obj\Debug\netcoreapp3.1\EventOrnekV3.genruntimeconfig.cache

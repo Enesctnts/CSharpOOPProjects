@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventOrnek", "EventOrnek\EventOrnek.csproj", "{3D07A5C6-FF1E-463A-B3BE-B22C3C5B5A3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventOrnekV2", "EventOrnekV2\EventOrnekV2.csproj", "{F1E21368-C6BD-4C06-8A3E-6FB7C15497BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventOrnekV3", "EventOrnekV3\EventOrnekV3.csproj", "{4BA9400D-6088-47B9-B469-454441CD52FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{3D07A5C6-FF1E-463A-B3BE-B22C3C5B5A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D07A5C6-FF1E-463A-B3BE-B22C3C5B5A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D07A5C6-FF1E-463A-B3BE-B22C3C5B5A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1E21368-C6BD-4C06-8A3E-6FB7C15497BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E21368-C6BD-4C06-8A3E-6FB7C15497BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E21368-C6BD-4C06-8A3E-6FB7C15497BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E21368-C6BD-4C06-8A3E-6FB7C15497BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA9400D-6088-47B9-B469-454441CD52FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA9400D-6088-47B9-B469-454441CD52FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA9400D-6088-47B9-B469-454441CD52FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA9400D-6088-47B9-B469-454441CD52FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
