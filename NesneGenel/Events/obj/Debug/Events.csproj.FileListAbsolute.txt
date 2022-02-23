@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\bin\Debug\Events.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\bin\Debug\Events.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\bin\Debug\Events.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\obj\Debug\Events.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\obj\Debug\Events.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Events\obj\Debug\Events.pdb

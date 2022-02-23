@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\bin\Debug\EventOrnek.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\bin\Debug\EventOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\bin\Debug\EventOrnek.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\obj\Debug\EventOrnek.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\obj\Debug\EventOrnek.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\obj\Debug\EventOrnek.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EventOrnek\obj\Debug\EventOrnek.pdb

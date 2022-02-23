@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\bin\Debug\DelegateV2.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\bin\Debug\DelegateV2.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\bin\Debug\DelegateV2.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\obj\Debug\DelegateV2.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\obj\Debug\DelegateV2.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\obj\Debug\DelegateV2.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\DelegateV2\obj\Debug\DelegateV2.pdb
