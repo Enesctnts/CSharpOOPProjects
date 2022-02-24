@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\bin\Debug\LINQSordular2.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\bin\Debug\LINQSordular2.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\bin\Debug\LINQSordular2.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\obj\Debug\LINQSordular2.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\obj\Debug\LINQSordular2.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\obj\Debug\LINQSordular2.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSordular2\obj\Debug\LINQSordular2.pdb

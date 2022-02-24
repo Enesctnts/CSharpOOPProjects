@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\bin\Debug\LINQSorgular.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\bin\Debug\LINQSorgular.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\bin\Debug\LINQSorgular.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\obj\Debug\LINQSorgular.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\obj\Debug\LINQSorgular.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\obj\Debug\LINQSorgular.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\LINQSorgular\obj\Debug\LINQSorgular.pdb

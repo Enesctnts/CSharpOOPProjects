@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\bin\Debug\HataYonetimiProjesi.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\bin\Debug\HataYonetimiProjesi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\bin\Debug\HataYonetimiProjesi.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\obj\Debug\HataYonetimiProjesi.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\obj\Debug\HataYonetimiProjesi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimiProjesi\obj\Debug\HataYonetimiProjesi.pdb

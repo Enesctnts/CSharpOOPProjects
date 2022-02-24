@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\bin\Debug\HataYonetimi.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\bin\Debug\HataYonetimi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\bin\Debug\HataYonetimi.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\obj\Debug\HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\obj\Debug\HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\obj\Debug\HataYonetimi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\HataYonetimi\obj\Debug\HataYonetimi.pdb
