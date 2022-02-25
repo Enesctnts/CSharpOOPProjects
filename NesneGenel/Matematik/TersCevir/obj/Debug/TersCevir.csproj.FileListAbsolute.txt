@@ -1,0 +1,9 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\bin\Debug\TersCevir.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\bin\Debug\TersCevir.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\obj\Debug\TersCevir.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\obj\Debug\TersCevir.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\obj\Debug\TersCevir.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\obj\Debug\TersCevir.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\TersCevir\obj\Debug\TersCevir.csproj.CopyComplete

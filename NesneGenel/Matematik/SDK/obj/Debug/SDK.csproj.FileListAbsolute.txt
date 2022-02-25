@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\obj\Debug\SDK.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\obj\Debug\SDK.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\obj\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\SDK\obj\Debug\SDK.pdb

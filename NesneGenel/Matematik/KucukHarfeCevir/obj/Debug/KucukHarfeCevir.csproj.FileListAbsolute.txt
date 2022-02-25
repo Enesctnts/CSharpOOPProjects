@@ -1,0 +1,9 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\bin\Debug\KucukHarfeCevir.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\bin\Debug\KucukHarfeCevir.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\KucukHarfeCevir\obj\Debug\KucukHarfeCevir.csproj.CopyComplete

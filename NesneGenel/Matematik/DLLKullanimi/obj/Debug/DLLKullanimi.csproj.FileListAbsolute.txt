@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\bin\Debug\DLLKullanimi.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\bin\Debug\DLLKullanimi.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\obj\Debug\DLLKullanimi.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\obj\Debug\DLLKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\obj\Debug\DLLKullanimi.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DLLKullanimi\obj\Debug\DLLKullanimi.pdb

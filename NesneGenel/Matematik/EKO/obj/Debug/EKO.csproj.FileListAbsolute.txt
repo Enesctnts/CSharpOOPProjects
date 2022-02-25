@@ -1,0 +1,9 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\bin\Debug\EKO.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\bin\Debug\EKO.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\obj\Debug\EKO.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\obj\Debug\EKO.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\obj\Debug\EKO.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\obj\Debug\EKO.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\EKO\obj\Debug\EKO.pdb

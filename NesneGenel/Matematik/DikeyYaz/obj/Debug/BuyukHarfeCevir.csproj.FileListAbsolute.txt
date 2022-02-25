@@ -1,0 +1,9 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\bin\Debug\DikeyYaz.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\bin\Debug\DikeyYaz.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\obj\Debug\DikeyYaz.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\obj\Debug\DikeyYaz.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\DikeyYaz\obj\Debug\BuyukHarfeCevir.csproj.CopyComplete

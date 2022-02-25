@@ -1,0 +1,13 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\bin\Debug\WndTextShop.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\bin\Debug\WndTextShop.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\bin\Debug\WndTextShop.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\bin\Debug\SDK.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\bin\Debug\SDK.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Matematik\WndTextShop\obj\Debug\WndTextShop.pdb

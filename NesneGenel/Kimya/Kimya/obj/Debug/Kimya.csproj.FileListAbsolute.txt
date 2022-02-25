@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\bin\Debug\Kimya.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\bin\Debug\Kimya.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\obj\Debug\Kimya.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\obj\Debug\Kimya.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\obj\Debug\Kimya.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Kimya\Kimya\obj\Debug\Kimya.pdb
