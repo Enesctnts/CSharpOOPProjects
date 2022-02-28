@@ -1,0 +1,10 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\bin\Debug\Ado.NetV1.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\bin\Debug\Ado.NetV1.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\bin\Debug\Ado.NetV1.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Ado.NetV1\obj\Debug\Ado.NetV1.pdb

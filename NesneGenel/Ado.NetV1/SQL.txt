@@ -1,0 +1,32 @@
+﻿CREATE DATABASE KitapDB
+GO 
+USE KitapDB
+GO
+Create Table Yazarlar
+(
+	YazarID int IDENTITY PRIMARY KEY,
+	YazarAdi varchar(20),
+	YazarSoyad varchar(20)
+)
+Create Table Kategoriler
+(
+	KategoriID int IDENTITY PRIMARY KEY,
+	KategoriAdi varchar(25)
+)
+GO
+Create table Kitaplar
+(
+	KitapID int IDENTITY PRIMARY KEY,
+	KitapAdi varchar(100),
+	KategoriID int REFERENCES Kategoriler(KategoriID),
+	YazarID int REFERENCES Yazarlar(YazarID),
+	EklenmeTarihi smalldatetime DEFAULT getdate(),
+	OkunmaSayisi int
+)
+
+INSERT INTO Yazarlar VALUES ('Mehmet Akif','Ersoy')
+INSERT INTO Yazarlar VALUES ('George','Orwell')
+
+INSERT INTO Kategoriler VALUES ('Siir'),('Roman'),('Deneme')
+
+INSERT INTO Kitaplar VALUES ('Safahat',1,1,GETDATE(),0),('1984',2,2,GETDATE(),0)
