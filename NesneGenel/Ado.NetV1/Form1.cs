@@ -94,6 +94,14 @@ namespace Ado.NetV1
             //}
 
 
+           DataRow  yeni = dt.NewRow();
+            yeni[0] = 123;
+            yeni[1] = "Serenat";
+
+            //dt.Rows.Add(yeni);
+
+            SqlCommandBuilder scb = new SqlCommandBuilder(da);
+            da.Update(dt);
 
             dataGridView1.DataSource = dt;
 
