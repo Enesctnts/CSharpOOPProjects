@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimiProjesi", "Hata
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetV1", "Ado.NetV1\Ado.NetV1.csproj", "{D4C5719B-67D6-4E93-AA21-DA9ADC18BD1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetV2", "Ado.NetV2\Ado.NetV2.csproj", "{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{D4C5719B-67D6-4E93-AA21-DA9ADC18BD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C5719B-67D6-4E93-AA21-DA9ADC18BD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C5719B-67D6-4E93-AA21-DA9ADC18BD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
