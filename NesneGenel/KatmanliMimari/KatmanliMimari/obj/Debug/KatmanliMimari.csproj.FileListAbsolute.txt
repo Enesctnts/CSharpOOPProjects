@@ -1,0 +1,6 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\bin\Debug\KatmanliMimari.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\KatmanliMimari\obj\Debug\KatmanliMimari.pdb
