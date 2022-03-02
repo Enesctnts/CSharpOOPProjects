@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\bin\Debug\Generic Constraints.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\bin\Debug\Generic Constraints.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\bin\Debug\Generic Constraints.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\obj\Debug\Generic Constraints.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\obj\Debug\Generic Constraints.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\obj\Debug\Generic Constraints.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\Generic Constraints\obj\Debug\Generic Constraints.pdb

@@ -88,12 +88,54 @@ namespace Ado.NetV2.DAL
 
         public void KitapSil(int kitapID)
         {
-
+            SqlConnection conn = new SqlConnection(strConn);
+            conn.Open();
+            SqlCommand cmd = new SqlCommand("Delete from Kitaplar where KitapID=@id", conn);
+            cmd.Parameters.Clear();
+            cmd.Parameters.AddWithValue("@id", kitapID);
+            cmd.ExecuteNonQuery();
+            conn.Close();
         }
 
-        public Kitap KitapGetir(int kitapID)
+        public void KitapGuncelle(Kitap kitap)
         {
-            return new Kitap();
+            SqlConnection conn = new SqlConnection(strConn);
+            conn.Open();
+            SqlCommand cmd = new SqlCommand("Update Kitaplar SET KitapAdi=@ad, KategoriID=@katID,YazarID=@yazID where KitapID=@id", conn);
+            cmd.Parameters.Clear();
+            cmd.Parameters.AddWithValue("@id", kitap.KitapID);
+            cmd.Parameters.AddWithValue("@ad", kitap.KitapAd);
+            cmd.Parameters.AddWithValue("@katID", kitap.KategoriID);
+            cmd.Parameters.AddWithValue("@yazID", kitap.YazarID);
+
+            cmd.ExecuteNonQuery();
+            conn.Close();
+            
+        }
+
+        public Kitap KitapBul(int id)
+        {
+            SqlConnection conn = new SqlConnection(strConn);
+            conn.Open();
+            SqlCommand cmd = new SqlCommand("Select * from Kitaplar where KitapID=@id", conn);
+            cmd.Parameters.Clear();
+            cmd.Parameters.AddWithValue("@id", id);
+
+            SqlDataReader dr = cmd.ExecuteReader();
+            dr.Read();
+            Kitap kitap = new Kitap();
+            kitap.KitapID = -1;//biz burda -1 vermemizin sebebi if koşuluna her türlü girsin değer yoksa -1 dönücek değer varsa zaten kendi degeri dönücek
+            if (dr.HasRows)//dr.HasRows değer var mı yok mu onu döner. 
+            {
+                kitap.KitapID = Convert.ToInt32(dr[0]);
+                kitap.KitapAd = dr[1].ToString();
+                kitap.KategoriID = dr.IsDBNull(2) ? 0 : (int?)dr[2];
+                kitap.YazarID = dr.IsDBNull(2) ? 0 : (int?)dr[3];
+                kitap.KategoriID = dr.IsDBNull(2) ? 0 : (int?)dr[2];
+
+            }
+            return kitap;
+            conn.Close();
         }
 
         public List<Kategori> Kategoriler()

@@ -1,0 +1,7 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\bin\Debug\GenelTekrarProjesi.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\bin\Debug\GenelTekrarProjesi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\bin\Debug\GenelTekrarProjesi.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\obj\Debug\GenelTekrarProjesi.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\obj\Debug\GenelTekrarProjesi.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\obj\Debug\GenelTekrarProjesi.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\GenelTekrarProjesi\obj\Debug\GenelTekrarProjesi.pdb
