@@ -1,0 +1,15 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFrameworkCodeFirst.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFrameworkCodeFirst\obj\Debug\EntityFrameworkCodeFirst.pdb

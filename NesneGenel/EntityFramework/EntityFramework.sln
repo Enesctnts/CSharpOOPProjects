@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkDbFirst", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkModelFirst", "EntityFrameworkModelFirst\EntityFrameworkModelFirst.csproj", "{B60B94A5-BCD5-40D3-9DD2-F306B9207C47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkCodeFirst", "EntityFrameworkCodeFirst\EntityFrameworkCodeFirst.csproj", "{5BD7EA3F-698E-4E4F-9643-F6F105DA375E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B60B94A5-BCD5-40D3-9DD2-F306B9207C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60B94A5-BCD5-40D3-9DD2-F306B9207C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60B94A5-BCD5-40D3-9DD2-F306B9207C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD7EA3F-698E-4E4F-9643-F6F105DA375E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD7EA3F-698E-4E4F-9643-F6F105DA375E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD7EA3F-698E-4E4F-9643-F6F105DA375E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD7EA3F-698E-4E4F-9643-F6F105DA375E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
