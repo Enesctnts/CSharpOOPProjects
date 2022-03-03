@@ -1,0 +1,15 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

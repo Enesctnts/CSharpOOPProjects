@@ -1,0 +1,11 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\BLL.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\BLL.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\DAL.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\Model.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\DAL.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\bin\Debug\Model.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\obj\Debug\BLL.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\KatmanliMimari\BLL\obj\Debug\BLL.pdb
