@@ -10,7 +10,6 @@ namespace EntityFrameworkCodeFirst.Model
     {
         public int YonetmenID { get; set; }
         public string YonetmenAdi { get; set; }
-
-
+        public ICollection<Film> Filmler { get; set; }
     }
 }

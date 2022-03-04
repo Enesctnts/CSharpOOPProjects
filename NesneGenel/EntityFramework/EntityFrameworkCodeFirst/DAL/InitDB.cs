@@ -12,6 +12,7 @@ namespace EntityFrameworkCodeFirst.DAL
     {
         protected override void Seed(FilmDB context)
         {
+
             context.Yonetmenler.Add(new Yonetmen { YonetmenAdi = "Spielberg" });
             context.Yonetmenler.Add(new Yonetmen { YonetmenAdi = "Fincher" });
 
@@ -39,6 +40,7 @@ namespace EntityFrameworkCodeFirst.DAL
 
 
             context.SaveChanges();
+
         }
     }
 }

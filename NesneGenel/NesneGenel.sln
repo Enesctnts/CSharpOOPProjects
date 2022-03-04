@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetV1", "Ado.NetV1\Ado.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado.NetV2", "Ado.NetV2\Ado.NetV2.csproj", "{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessGeneric", "BusinessGeneric\BusinessGeneric.csproj", "{0D3FF881-25D7-4264-99F2-ACC2211E78F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4682533D-6FE3-4175-AF02-2BFFBE98F0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3FF881-25D7-4264-99F2-ACC2211E78F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3FF881-25D7-4264-99F2-ACC2211E78F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3FF881-25D7-4264-99F2-ACC2211E78F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3FF881-25D7-4264-99F2-ACC2211E78F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

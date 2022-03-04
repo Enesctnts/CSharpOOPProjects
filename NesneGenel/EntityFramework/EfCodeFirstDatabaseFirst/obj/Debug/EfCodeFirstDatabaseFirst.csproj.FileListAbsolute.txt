@@ -1,0 +1,15 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EfCodeFirstDatabaseFirst.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EfCodeFirstDatabaseFirst.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EfCodeFirstDatabaseFirst.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\EntityFramework\EfCodeFirstDatabaseFirst\obj\Debug\EfCodeFirstDatabaseFirst.pdb

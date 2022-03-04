@@ -1,0 +1,15 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\BusinessGeneric.exe.config
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\BusinessGeneric.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\BusinessGeneric.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\EntityFramework.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\EntityFramework.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.Form1.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.Properties.Resources.resources
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.csproj.GenerateResource.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.csproj.CopyComplete
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\CSharpOOP\NesneGenel\BusinessGeneric\obj\Debug\BusinessGeneric.pdb

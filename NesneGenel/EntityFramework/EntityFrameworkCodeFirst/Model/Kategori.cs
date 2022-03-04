@@ -12,7 +12,7 @@ namespace EntityFrameworkCodeFirst.Model
         public string KategoriAdi { get; set; }
 
 
-
+        public virtual ICollection<Film> Filmler { get; set; }//Navigation property. Navigation property ile foreng keyleri veriyoruz.
 
     }
 }
